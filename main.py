@@ -1,5 +1,4 @@
-
-
+# --- Day 1: Trebuchet?! ---
 
 def get_first(str):
     for c in str:
