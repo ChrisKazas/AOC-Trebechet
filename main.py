@@ -23,7 +23,7 @@ with open("data.txt", 'r') as handle:
 
 
 result = sum(arr)
-print(result)
+
         
         
     
